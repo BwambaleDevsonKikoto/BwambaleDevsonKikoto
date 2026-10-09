@@ -1,8 +1,6 @@
-<!-- Replace every YOUR_USERNAME, YOUR_LINKEDIN, YOUR_X, and [bracketed] item before publishing. Delete any social link you don't use. -->
-
 <div align="center">
 
-# Dev
+# Bwambale Devson Kikoto
 
 **Full-Stack Developer · MERN · TypeScript**
 
